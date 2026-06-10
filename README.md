@@ -28,8 +28,6 @@ This project uses the **NASA CMAPSS Turbofan Engine Degradation Dataset**.
 
 ---
 
-
-
 ## 🧭 Project Roadmap
 
 Our development path follows a structured transition from classical heuristics to state-of-the-art deep learning architectures.
@@ -62,16 +60,4 @@ Our development path follows a structured transition from classical heuristics t
 
 ## 📜 License
 *   This project is released under the MIT License.
----
-
-## 🔗 Inspiration & Similar Projects
-This project is inspired by state-of-the-art research in predictive maintenance. For further reading, explore these related repositories:
-
-*   **[NASA-RUL-Prediction](https://github.com/biswajitsahoo1111/RUL_Prediction_using_Deep_Learning):** Deep learning approaches for Remaining Useful Life estimation.
-*   **[Azure Predictive Maintenance](https://github.com/Azure-Samples/Predictive-Maintenance-using-LSTM):** Industrial-scale implementation of LSTM for turbofan monitoring.
-*   **[PyOD](https://github.com/yzhao062/pyod):** A comprehensive toolkit for detecting outlying objects in multivariate data.
-
-## 📚 References
-*   A. Saxena and K. Goebel (2008). "Turbofan Engine Degradation Simulation Data Set", NASA Prognostics Data Repository.
-*   Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008). "Isolation Forest".
 ---
